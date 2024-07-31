@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(10, 37, 37);
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+ul li{
+    display: inline;
+    margin-right: 10px;
+    color: white;
+}
+h2,p{
+    text-align: center;
+    color: white;
+}
+.active-day{
+    color: green;
+}
+.inactive-day{
+    color: black;
+}
+#streak{
+    background-color: white;
+}
+#streak p{
+    color:black;
+    display:inline;
+    margin-right: 10px;
+}
